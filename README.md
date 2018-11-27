@@ -22,6 +22,7 @@ https://github.com/armcha/PlayTabLayout
 ## Android Jetpack
 https://github.com/MindorksOpenSource/android-mvvm-architecture/tree/master/app/src/main
 https://proandroiddev.com/the-missing-google-sample-of-android-architecture-components-guide-c7d6e7306b8f
+https://proandroiddev.com/mvvm-architecture-using-livedata-rxjava-and-new-dagger-android-injection-639837b1eb6c
 https://www.jianshu.com/p/c0ed0bc45ab6
 https://github.com/jumaallan/android-jetpack
 
